@@ -1,0 +1,103 @@
+<resources>
+
+    <string name="app_name">GHS App</string>
+    <string name="button_schedules">Schedules</string>
+    <string name="button_testHTTP">Test HTTP</string>
+
+    <!-- Table Titles -->
+    <string name="regular_day_schedule">Regular Day</string>
+    <string name="collaboration_day_schedule">Collaboration Day</string>
+    <string name="minimum_day_schedule">Minimum Day</string>
+    <string name="pep_day_schedule">Pep Assembly Day</string>
+    <string name="double_pep_day_schedule">Double Pep Assembly Day</string>
+
+
+    <string name="dummy">Dummy</string>
+    <string name="test">Test</string>
+
+
+    <!-- Table Column Heads -->
+    <string name="table_head_period">Period</string>
+    <string name="table_head_start">Start</string>
+    <string name="table_head_end">End</string>
+
+
+
+
+
+    <!-- Table Names of Periods -->
+    <string name="nut_break">Nutrition Break</string>
+    <string name="lunch">Lunch</string>
+    <string name="period_one">Period One</string>
+    <string name="period_two">Period Two</string>
+    <string name="period_three">Period Three</string>
+    <string name="period_four">Period Four</string>
+    <string name="period_five">Period Five</string>
+    <string name="period_six">Period Six</string>
+    <string name="period_seven">Period Seven</string>
+
+
+
+
+
+    <!-- Table Regular Schedule Times -->
+    <string name="regular_first_schedule">7:15</string>
+    <string name="regular_first_schedule_end">8:08</string>
+
+    <string name="regular_second_schedule">8:15</string>
+    <string name="regular_second_schedule_end">9:08</string>
+
+    <string name="regular_break_schedule">9:08</string>
+    <string name="regular_break_schedule_end">9:16</string>
+
+    <string name="regular_third_schedule">9:23</string>
+    <string name="regular_third_schedule_end">10:16</string>
+
+    <string name="regular_fourth_schedule">10:23</string>
+    <string name="regular_fourth_schedule_end">11:18</string>
+
+    <string name="regular_lunch_schedule">11:18</string>
+    <string name="regular_lunch_schedule_end">11:48</string>
+
+    <string name="regular_fifth_schedule">11:55</string>
+    <string name="regular_fifth_schedule_end">12:48</string>
+
+    <string name="regular_sixth_schedule">12:55</string>
+    <string name="regular_sixth_schedule_end">1:48</string>
+
+    <string name="regular_seventh_schedule">1:55</string>
+    <string name="regular_seventh_schedule_end">2:48</string>
+
+
+
+
+
+    <!-- Table Collaboration Schedule Times -->
+    <string name="collaboration_first_schedule">8:36</string>
+    <string name="collaboration_first_schedule_end">9:16</string>
+
+    <string name="collaboration_second_schedule">9:23</string>
+    <string name="collaboration_second_schedule_end">10:03</string>
+
+    <string name="collaboration_break_schedule">10:03</string>
+    <string name="collaboration_break_schedule_end">10:11</string>
+
+    <string name="collaboration_third_schedule">10:18</string>
+    <string name="collaboration_third_schedule_end">10:58</string>
+
+    <string name="collaboration_fourth_schedule">11:05</string>
+    <string name="collaboration_fourth_schedule_end">11:47</string>
+
+    <string name="collaboration_lunch_schedule">11:47</string>
+    <string name="collaboration_lunch_schedule_end">12:17</string>
+
+    <string name="collaboration_fifth_schedule">12:24</string>
+    <string name="collaboration_fifth_schedule_end">1:04</string>
+
+    <string name="collaboration_sixth_schedule">1:11</string>
+    <string name="collaboration_sixth_schedule_end">1:51</string>
+
+    <string name="collaboration_seventh_schedule">1:58</string>
+    <string name="collaboration_seventh_schedule_end">2:38</string>
+
+</resources>
